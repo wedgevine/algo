@@ -9,3 +9,5 @@ This site is setup by Hugo/Github, check [how the site is setup]("{{ .Site.Param
 This site is setup by Hugo/Github, check [how the site is setup]("{{ .Params.wedgevine }}")
 
 This site is setup by Hugo/Github, check [how the site is setup](http://wedgevine.github.io/tool/static-web/hugo/)
+
+This site is setup by Hugo/Github, check {{ .Site.Params.wedgevine_tool }}
