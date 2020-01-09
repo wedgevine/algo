@@ -1,5 +1,6 @@
 ---
 title: "algo"
+chapter: true
 ---
 
-this is the index page
+This site is setup by Hugo/Github, check [how the site is setup]({{ $.Site.Params.wedgevine_tool }}/static-web/hugo/)
