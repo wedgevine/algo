@@ -1,4 +1,4 @@
-baseURL = "http://wedgevine.github.io/algo/"
+baseURL = "https://wedgevine.github.io/algo/"
 languageCode = "en-us"
 title = "algo"
 
@@ -8,7 +8,7 @@ theme = "hugo-theme-learn"
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "green"
-  wedgevine_tool = "https://wedgevine.github.io/tool"
+  wedgevine = "https://wedgevine.github.io/tool"
 
 
 # For search functionality
